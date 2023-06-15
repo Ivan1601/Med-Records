@@ -24,12 +24,13 @@
 
 Код
 
-![1](https://github.com/Ivan1601/Med-Records/assets/42246672/9692c805-6f7e-43c0-bc17-c6f3ab25706d)
+![1](https://github.com/Ivan1601/Med-Records/assets/42246672/ab6ad55f-8d19-4eb4-bb81-4c5fd598f483)
 
 Транзакции в Remix
 
-![2](https://github.com/Ivan1601/Med-Records/assets/42246672/e8ea1478-b2be-4f63-985b-f1485df1199b)
+![2](https://github.com/Ivan1601/Med-Records/assets/42246672/d1b96d27-6979-4133-ab83-38da4192057e)
 
 Транзакции в Ganache
 
-![3](https://github.com/Ivan1601/Med-Records/assets/42246672/73c223c5-fa13-46ed-9a90-8a0ff6fcbb90)
+![3](https://github.com/Ivan1601/Med-Records/assets/42246672/c393b3da-662c-4b14-8a34-59147c27f06d)
+
